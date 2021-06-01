@@ -1,7 +1,5 @@
 package lc;
 
-import java.util.List;
-
 /**
  * @Author: 余新洁
  * @Date: 2021/5/29
